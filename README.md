@@ -1,4 +1,4 @@
 # hello-world
 This is example about repository
-# Hello
+## Hello
 I am newbie
